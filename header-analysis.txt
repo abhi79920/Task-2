@@ -1,0 +1,8 @@
+Return-Path: <spoofed@unknownhost.ru>
+Received: from unknownhost.ru (unknown [185.233.123.45])
+Message-ID: <invoicenotice@unknownhost.ru>
+Date: Tue, 24 Jun 2025 15:20:00 -0700
+From: Amazon Support <admin@amaz0n-support.com>
+Subject: Action Required: Order Confirmation Failed!
+X-Mailer: PHPMailer 5.2
+Authentication-Results: fail (SPF)
