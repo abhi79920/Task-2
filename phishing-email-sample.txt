@@ -1,0 +1,16 @@
+From: admin@amaz0n-support.com
+To: user@example.com
+Subject: Action Required: Order Confirmation Failed!
+
+Dear User,
+
+We were unable to process your recent Amazon order due to a billing issue. Please confirm your payment details immediately by clicking the link below:
+
+http://amazon-support.billing-secure-check.ru/verify
+
+If we do not hear from you within 12 hours, your order will be cancelled.
+
+Sincerely,
+Amazon Support Team
+
+Attachment: invoice.pdf.exe
